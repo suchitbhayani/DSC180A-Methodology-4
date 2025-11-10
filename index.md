@@ -1,8 +1,8 @@
 **Name:** Suchit Bhayani  
 **Email:** sbhayani [AT] ucsd [DOT] edu  
 
-**Section:** B23
-**Mentor:** Raju Pusapati, Murali Krishnam, Justin Eldridge
+**Section:** B23  
+**Mentor:** Raju Pusapati, Murali Krishnam, Justin Eldridge  
 
 ---
 
